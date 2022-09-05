@@ -1,0 +1,26 @@
+h1 {
+    text-decoration: underline wavy #00d8ff;
+    text-align: center;
+    }
+
+#body {
+    background-color:#F3BC34 ;
+}
+
+.carousel-inner img {
+    width: 70%; 
+    margin: auto;
+    min: height 7px;0px;
+}
+
+.carousel-inner{
+    text-align: center;}
+
+h3 {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+}
